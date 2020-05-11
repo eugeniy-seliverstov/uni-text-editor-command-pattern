@@ -1,0 +1,4 @@
+delete 0 6
+copy 0 1
+insert "hhhh" 0
+paste 0

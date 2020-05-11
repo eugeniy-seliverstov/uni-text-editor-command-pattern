@@ -1,0 +1,6 @@
+c:\users\evgeniy\documents\visual studio 2015\Projects\TextCommand\TextCommand\bin\Debug\TextCommand.exe.config
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\TextCommand\TextCommand\obj\Debug\TextCommand.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\TextCommand\TextCommand\bin\Debug\TextCommand.exe
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\TextCommand\TextCommand\bin\Debug\TextCommand.pdb
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\TextCommand\TextCommand\obj\Debug\TextCommand.exe
+C:\Users\Evgeniy\Documents\Visual Studio 2015\Projects\TextCommand\TextCommand\obj\Debug\TextCommand.pdb
